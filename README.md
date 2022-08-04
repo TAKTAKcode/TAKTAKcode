@@ -1,8 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=dad7db&height=250&section=header&text=TakTak%20Code&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=250&section=header&text=TakTak%20Code&fontSize=40&animation=fadeIn&fontColor=ffffff)
 
 
+<!--
+### Hi there 👋
+-->
+### Back-end Dev.SEOK WON TAK😄
 
-<!-- ### Hi there 👋 -->  
+
 
 <!--
 **TAKTAKcode/TAKTAKcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
