@@ -4,7 +4,7 @@
 <!--
 ### Hi there 👋
 -->
-### Back-end Dev.SEOK WON TAK😄
+### Back-end Dev.SEOK WON TAK 😄
 
 
 
