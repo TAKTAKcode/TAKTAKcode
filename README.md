@@ -1,11 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=250&section=header&text=TakTak%20Code&fontSize=40&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=8d53b3&height=200&section=header&text=TakTak%20Code&fontSize=30&animation=twinkling&fontColor=ffffff)
 
-
-<!--
-### Hi there 👋
--->
-### Back-end Dev.SEOK WON TAK                    
-😄       
+### Back-end Dev.SEOK WON TAK 😄       
      
 
 
